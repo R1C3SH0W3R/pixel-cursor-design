@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考图生成像素动态光标"
+  short_description: "上传参考图，自动设计十七种像素动态光标，完成热点校准、预览与成品打包"
+  default_prompt: "使用 $pixel-cursor-design，把我上传的参考图制作成一整套可用的像素风动态鼠标光标。其余设计由你完成，直接给我预览和成品下载包。"
